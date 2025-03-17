@@ -15,13 +15,13 @@
     padding: 6px 8px 6px 16px;
     text-decoration: none;
     font-size: 25px;
-    color: #ffffff;
+    color: cadetblue;
     display: block;
   }
   
  
   .sidenav a:hover {
-    color: #f1f1f1;
+    color: cadetblue;
   }
   
 
@@ -40,7 +40,7 @@
     padding: 6px 8px 6px 16px;
     text-decoration: none;
     font-size: 25px;
-    color: #ffffff;
+    color: cadetblue;
     display: block;
     text-align: center; 
 } 
@@ -273,5 +273,12 @@ height:200px;
   .img2 {
     display: block;
     margin-left: auto;
-    margin-right: auto;
-}
+    margin-right: auto; 
+    
+} 
+.img {
+  width: 150px;
+  height: auto;
+} 
+
+.body { background-color: cadetblue;}
